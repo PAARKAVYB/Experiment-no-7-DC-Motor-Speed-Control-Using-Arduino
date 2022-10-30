@@ -4,7 +4,7 @@ NAME   :PAARKAVY B
 REG.NO :212221230072
 ```
 # AIM:
-To control the speed and the direction of a DC motor using L293D driver ic( H- bridge)
+To control the speed and the direction of a DC motor using L293D driver ic( H- bridge).
 # COMPONENTS REQUIRED:
 •	Arduino UNO board
 •	L293D driver
